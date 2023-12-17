@@ -20,7 +20,6 @@ I'm a student at the ESGI school in Paris. Looking forward to do projects that w
 ![5968830](https://github.com/Lost4295/Lost4295/assets/101065557/6894766a-b677-4c88-b9ba-1bd61b8fc151)
 
 
-![Lost's GitHub stats](https://github-readme-stats.vercel.app/api?username=lost4295&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lost4295&theme=gruvbox-duo&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lost4295&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
