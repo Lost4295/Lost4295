@@ -12,8 +12,7 @@ I'm a student at the ESGI school in Paris. Looking forward to do projects that w
 ### What I'm learning :
 ![919853](https://github.com/Lost4295/Lost4295/assets/101065557/c67590a1-d57d-46c1-97b0-85bcbcd9ba04)
 ![6132222](https://github.com/Lost4295/Lost4295/assets/101065557/34d93507-1649-4c40-96e0-f12465362cd3)
-
-
+![JAVA](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png)
 
 ### Platforms I'm available on :
 ![5968756](https://github.com/Lost4295/Lost4295/assets/101065557/67136562-203e-42c6-8c91-469e9fe2f59c)
