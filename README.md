@@ -3,6 +3,7 @@
 I'm a student at the ESGI school in Paris. Looking forward to do projects that won't be of many uses, but still fun to make !
 
 - 🔭 I’m currently working on [My Annual Project](https://github.com/Lost4295/Projet-Annuel-2)
+- 🔭 I’m also working on [A Go Project](https://github.com/Lost4295/LESGO)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
