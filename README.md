@@ -37,7 +37,7 @@ I'm a student at the ESGI school in Paris. Looking forward to do projects that w
  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/></a>
  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="60" height="60"/></a>
  <a href="https://symfony.com" target="_blank" rel="noreferrer"><img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="60" height="60"/></a>
- <a href="https://go.dev/" <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/2560px-Go_Logo_Blue.svg.png" alt="golang" width="60" height="60"/></a></p>
+ <a href="https://go.dev/" <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/2560px-Go_Logo_Blue.svg" alt="golang" width="60" height="60"/></a></p>
 
 |[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lost4295&theme=gruvbox-duo&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lost4295&layout=pie)](https://github.com/anuraghazra/github-readme-stats)|
 |------------|:--------------:|
