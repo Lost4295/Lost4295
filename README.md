@@ -2,7 +2,7 @@
 
 I'm a student at the ESGI school in Paris. Looking forward to do projects that won't be of many uses, but still fun to make !
 
-- 🔭 I’m currently working on [My Annual Project](https://github.com/Lost4295/Projet-Annuel-2)
+- 🔭 I’m currently working on getting more used to the C language. 
 - 🔭 I’m also working on [A Discord Bot](https://github.com/Lost4295/discord-bot)
 
 <h3 align="left">Connect with me:</h3>
