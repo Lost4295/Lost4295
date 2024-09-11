@@ -4,13 +4,19 @@ I'm a student at the ESGI school in Paris. Looking forward to do projects that w
 
 - 🔭 I’m currently working on getting more used to the C language. 
 - 🔭 I’m also working on [A Discord Bot](https://github.com/Lost4295/discord-bot)
+- 💭 Thinking about making an application... 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/lost4295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lost4295" height="30" width="40" /></a>
-<a href="https://instagram.com/lost.4295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lost.4295" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ylan-turin-kondi-252272212/"><img align="center" src="images/linkedin.svg"></a>
+<a href="https://twitter.com/lost4295" target="blank"><img align="center"  src="images/twitter.svg" alt="lost4295"></a>
+<a href="https://instagram.com/lost.4295" target="blank"><img align="center" src="images/instagram.svg" alt="lost.4295" /></a>
+<a href="mailto:turin-ylan@outlook.fr" target="blank"><img align="center" src="images/email_me.svg" alt="Send me an email/ M'envoyer un Email" /></a>
 <a href="https://discordapp.com/users/349983254373466114" target="blank"><img align="center" src="https://github.com/Lost4295/Lost4295/assets/101065557/67136562-203e-42c6-8c91-469e9fe2f59c" alt="lost4295" height="40" width="40" /></a>
 </p>
+
+## Currently a student at ESGI, Paris in 3rd year, and a Junior developer at [BNP Paribas](https://group.bnpparibas/)
+
 
 <h3 align="left">Languages and Tools I have worked with :</h3>
 <p align="left">
@@ -27,7 +33,7 @@ I'm a student at the ESGI school in Paris. Looking forward to do projects that w
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/></a>
  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/></a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/></a>
- <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="60" height="60"/></a>
+ <!-- <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="60" height="60"/></a> -->
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/></a>
  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="60" height="60"/></a>
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/></a>
@@ -37,7 +43,11 @@ I'm a student at the ESGI school in Paris. Looking forward to do projects that w
  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/></a>
  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="60" height="60"/></a>
  <a href="https://symfony.com" target="_blank" rel="noreferrer"><img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="60" height="60"/></a>
- <a href="https://go.dev/"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUTc3wwVFk4RrsQHsAafyJYQOkKwrb7WSIiQ&s" alt="golang" width="60" height="60"/></a></p>
+ <a href="https://go.dev/"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUTc3wwVFk4RrsQHsAafyJYQOkKwrb7WSIiQ&s" alt="golang" width="60" height="60"/></a>
+ <a href="https://nodejs.org/fr"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/langfr-180px-Node.js_logo.svg.png" alt="node.js" height="60"></a>
+  <a href="https://adonisjs.com/"><img src="https://miro.medium.com/v2/resize:fit:800/1*NvAqNoaERe7VzT-s47PQcw.png" alt="adonis.js" height="60"></a>
+
+ </p>
 
 |[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lost4295&theme=gruvbox-duo&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lost4295&layout=pie)](https://github.com/anuraghazra/github-readme-stats)|
 |------------|:--------------:|
