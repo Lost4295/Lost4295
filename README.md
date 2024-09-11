@@ -54,7 +54,7 @@ I'm a student at the ESGI school in Paris. Looking forward to do projects that w
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lost4295" alt="lost4295" /></a> </p>
 
-
+<img src="https://www.codewars.com/users/Lost4295/badges/large"/>
 <!--
 **Lost4295/Lost4295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
