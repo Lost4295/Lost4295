@@ -2,8 +2,8 @@
 
 I'm a student at the ESGI school in Paris. Looking forward to do projects that won't be of many uses, but still fun to make !
 
-- 🔭 I’m currently working on getting more used to the C language. 
-- 🔭 I’m also working on [A Discord Bot](https://github.com/Lost4295/discord-bot)
+- 🔭 I’m currently working on nothing ! Need me to work on something ?
+- 🔭 I’m currently making updates to [my Discord Bot](https://github.com/Lost4295/discord-bot)
 - 💭 Thinking about making an application... 
 
 <h3 align="left">Connect with me:</h3>
