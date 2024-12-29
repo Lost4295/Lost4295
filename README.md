@@ -2,7 +2,7 @@
 
 I'm a student at the ESGI school in Paris. Looking forward to do projects that won't be of many uses, but still fun to make !
 
-- 🔭 I’m currently working on nothing ! Need me to work on something ?
+- 🔭 I’m currently working on a calendar website...
 - 🔭 I’m currently making updates to [my Discord Bot](https://github.com/Lost4295/discord-bot)
 - 💭 Thinking about making an application... 
 
