@@ -3,7 +3,6 @@
 I'm a student at the ESGI school in Paris. Looking forward to do projects that won't be of many uses, but still fun to make !
 
 - 🔭 I’m currently working on a calendar website...
-- 🔭 I’m currently working on my Annual Project for my third Year.
 - 🔭 I’m currently making updates to [my Discord Bot](https://github.com/Lost4295/discord-bot)
 - 💭 Thinking about making an application for Android and Android Automotive... 
 
@@ -16,7 +15,7 @@ I'm a student at the ESGI school in Paris. Looking forward to do projects that w
 <a href="https://discordapp.com/users/349983254373466114" target="blank"><img align="center" src="https://github.com/Lost4295/Lost4295/assets/101065557/67136562-203e-42c6-8c91-469e9fe2f59c" alt="lost4295" height="40" width="40" /></a>
 </p>
 
-## Currently a student at ESGI, Paris in 3rd year, and a Junior developer at [BNP Paribas](https://group.bnpparibas/)
+## Currently a student at ESGI, Paris in 4th year, and a Junior developer looking for an internship !
 
 
 <h3 align="left">Languages and Tools I have worked with :</h3>
