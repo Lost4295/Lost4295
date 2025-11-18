@@ -50,8 +50,7 @@ I'm a student at the ESGI school in Paris. Looking forward to do projects that w
   <a href="https://kotlinlang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" alt="Kotlin" height="60"></a>
 
  </p>
-
-|[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lost4295&theme=gruvbox-duo&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lost4295&layout=pie)](https://github.com/anuraghazra/github-readme-stats)|
+| [![GitHub Streak](https://streak-stats.demolab.com?user=Lost4295&theme=gruvbox-duo&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lost4295&layout=pie)](https://github.com/anuraghazra/github-readme-stats)|
 |------------|:--------------:|
 
 
