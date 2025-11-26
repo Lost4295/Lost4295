@@ -2,6 +2,7 @@
 
 
 ![Visits](https://img.shields.io/badge/Visits-0-blue)
+
 I'm a student at the ESGI school in Paris. Looking forward to do projects that won't be of many uses, but still fun to make !
 
 - 🔭 I’m currently working on a calendar website...
