@@ -27,7 +27,7 @@ jobs:
       - name: Update README.md
         run: |
           visits=${{ steps.increment.outputs.visits }}
-          badge="![Visits](https://img.shields.io/badge/Visits-42895-blue)"
+          badge="![Visits](https://img.shields.io/badge/Visits-0-blue)"
           sed -i 's|!\[Visits\](https://img.shields.io/badge/Visits-.*-blue)|'"$badge"'|' README.md
 
       - name: Commit changes
