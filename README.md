@@ -1,7 +1,7 @@
 # Hi, I'm KaiYou (or Lost4295), and welcome on my page !
 
 
-    ![Profile Views](https://github-vistors-counter.onrender.com/github?username=Lost4295)
+![Profile Views](https://github-vistors-counter.onrender.com/github?username=Lost4295)
 
 I'm a student at the ESGI school in Paris. Looking forward to do projects that won't be of many uses, but still fun to make !
 
